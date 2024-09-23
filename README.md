@@ -18,7 +18,7 @@
 <a href="https://codeforces.com/profile/saikiran_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saikiran_0001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zgs2oq2tfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zgs2oq2tfj" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@saikiranpuppala21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saikiranpuppala21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/skrnpuppala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/skrnpuppala" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/skrnpuppala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="skrnpuppala" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/saikiran-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="saikiran-1" height="30" width="40" /></a>
 </p>
 
